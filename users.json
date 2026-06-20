@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "U001",
+        "name": "小明",
+        "borrowed": []
+    },
+    {
+        "user_id": "U002",
+        "name": "小红",
+        "borrowed": []
+    }
+]

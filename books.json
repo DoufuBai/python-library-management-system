@@ -1,0 +1,26 @@
+[
+    {
+        "book_id": "B001",
+        "title": "Python入门",
+        "author": "张三",
+        "category": "编程",
+        "total": 3,
+        "available": 3
+    },
+    {
+        "book_id": "B002",
+        "title": "数据结构",
+        "author": "李四",
+        "category": "计算机",
+        "total": 2,
+        "available": 2
+    },
+    {
+        "book_id": "B003",
+        "title": "算法图解",
+        "author": "王五",
+        "category": "计算机",
+        "total": 1,
+        "available": 1
+    }
+]
